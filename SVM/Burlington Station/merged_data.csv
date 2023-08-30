@@ -1,0 +1,13 @@
+Metric,Value,Station,Month
+R2,0.769 ,Burlington Station,12
+RMSE,0.375 ,Burlington Station,12
+MAE,0.345 ,Burlington Station,12
+R2,0.770 ,Burlington Station,3
+RMSE,0.381 ,Burlington Station,3
+MAE,0.356 ,Burlington Station,3
+R2,0.757 ,Burlington Station,6
+RMSE,0.398 ,Burlington Station,6
+MAE,0.371 ,Burlington Station,6
+R2,0.764 ,Burlington Station,9
+RMSE,0.381 ,Burlington Station,9
+MAE,0.353 ,Burlington Station,9
